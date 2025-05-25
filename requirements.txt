@@ -1,0 +1,16 @@
+chromadb==0.4.18
+pypdf
+langchain==0.1.16
+langchain-community==0.0.32
+InstructorEmbedding==1.0.1
+sentence-transformers==2.2.2
+transformers==4.18.0
+huggingface_hub==0.19.4
+accelerate
+torch
+unstructured[pdf,image]
+Pillow
+tabulate
+tesseract
+pdfminer.six==20221105
+pi_heif
