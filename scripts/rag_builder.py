@@ -12,7 +12,7 @@ EXTRACTED_CONTENT_DIR = "./extracted_pdf_content"
 CHROMA_DB_DIR = "./chroma_db"
 
 # Embedding model name
-EMBEDDING_MODEL_NAME = "hkunlp/instructor-xl"
+EMBEDDING_MODEL_NAME = "BAAI/bge-large-en-v1.5"
 
 def load_extracted_content(content_dir: str):
     """
