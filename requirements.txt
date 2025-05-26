@@ -15,3 +15,4 @@ tesseract
 pdfminer.six==20221105
 pi_heif
 streamlit
+langchain-ollama
